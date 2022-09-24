@@ -1,0 +1,1 @@
+este es un test de como sincronizar git con obsidian
